@@ -41,7 +41,7 @@ Third-semester IT Engineering student passionate about web development, open sou
 - Database integration
 - Generative AI development
 
-<--[![An image of @pragga9876's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragga9876)](https://holopin.io/@pragga9876)-->
+<!--[![An image of @pragga9876's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragga9876)](https://holopin.io/@pragga9876)-->
 
 
 ## 📫 Connect with Me

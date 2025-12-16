@@ -1,52 +1,87 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pragga9876;Building+Equil+for+a+Greener+Tomorrow;React+%26+Carbon+Footprint+Hacker;3rd+Sem+IT+Engineer+%7C+India;Hackathons%2C+Open-Source+%26+PWAs" alt="Typing SVG" />
+</div>
 
-<!--
-**pragga9876/pragga9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Pragga9876's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragga9876&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragga9876&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Pragga Mukherjee! 👋
+<hr/>
 
-## 🚀 About Me
-Third-semester IT Engineering student passionate about web development, open source, and AI!
+## 🚀 **Hey there! I'm building the future, one commit at a time!**
 
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pragga9876&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragga9876&layout=compact&theme=radical)
-
-## 🔥 Current Projects
-- 🎮 [mini-js-games-hub](https://github.com/ritaban06/mini-js-games-hub) - Contributing to an open-source JavaScript games collection
-- 🤖 Working on AI-powered applications
-- 📚 Exploring backend development
-
-## 🌱 Currently Learning
-- Backend web development (Node.js, Express)
-- Database integration
-- Generative AI development
-
-<!--[![An image of @pragga9876's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragga9876)](https://holopin.io/@pragga9876)-->
+💻 Currently jamming on: Equil v2 (carbon footprint tracker with AI insights)
+🎯 Next up: PWA magic + GenAI experiments
+🤝 Open for: Hackathon teams, sustainability collabs, React mentorship
 
 
-## 📫 Connect with Me
+![Fun Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk4czF4d3Z5c2V3N3p4d3Z5c2V3N3p4dGVqczY0eG5yZ2JscTVjZ3V5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0N3w5PJu/giphy.gif) [memory:1]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragga9876)
+## 🌱 **Featured Projects** (The ones I stay up late for!)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pragga9876&color=blue)
+| Project | What it does 🎮 | Tech Stack ⚡ | Status 🔥 |
+|---------|----------------|--------------|-----------|
+| **[Equil](https://github.com/pragga9876/equil)** | Tracks your carbon footprint with clean UI, habit insights, Hult Prize ready! 🌍 | React + Firebase + Tailwind + Vercel | **Prototype → Startup vibes** [memory:10][memory:20] |
+| **[Tic-Tac-Toe PWA](https://github.com/pragga9876/tic-tac-toe)** | Neon gradients, 12-file SCSS system, installable game! 🎯 | React + Vite + Sass + Radix UI | **Production deployed** [memory:2][memory:8] |
+| **[mini-js-games-hub](https://github.com/mini-js-games-hub)** | Forked + enhanced JS games hub 📱 | Vanilla JS + CSS + GitHub workflows | **Active contributor** [memory:7] |
+| **assist-ai** | AI resume builder w/ OCR smarts 🤖 | Python OCR + Node + React | **Open-source contribs** [memory:1] |
+
+## 🛠️ **Tech Stack** (What powers my chaos ➕ creativity)
+
+const praggaTechStack = {
+frontend: ["React", "Tailwind CSS", "Sass/SCSS (12-file modular)", "Radix UI"],
+backend: ["Node.js", "Express", "Firebase/Firestore"],
+tools: ["Vite", "Vercel", "Git/GitHub", "VS Code", "Git Bash"],
+learning: ["DSA", "GenAI/AGI", "PWAs", "Full-stack mastery"]
+}
+
+
+## 🏆 **Hackathons & Adventures**
+
+- **Calcutta Hacks** 🏛️: Built heritage-tech blending Kolkata culture + web apps [memory:16]
+- **Hult Prize Prep** 🌍: Scaling Equil for social impact competitions [memory:10]
+- **TEAMDER** 👥: Tinder-for-hackathon-teams feature [memory:19]
+- **Open Source** 💾: Git workflows, UI enhancements, contribs everywhere!
+
+## 🎯 **What's cooking right now?**
+
+graph LR
+A[Equil v2] --> B[API-driven footprint calc]
+A --> C[Mobile-first PWA]
+A --> D[AI habit suggestions]
+E[React Mastery] --> F[Next.js experiments]
+G[Hackathons] --> H[Calcutta Hacks 2.0]
+
+
+## 🤝 **Let's collaborate!**
+
+🚀 Love sustainability + React? Let's build!
+💬 Debates, hackathons, open-source? Count me in!
+📧 Open to mentorship, team-ups, project ideas
+🌱 Always learning, always shipping
+
+
+<p align="center">
+  <a href="https://github.com/pragga9876?tab=following">
+    <img src="https://img.shields.io/github/followers/pragga9876?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://twitter.com/pragga9876">
+    <img src="https://img.shields.io/twitter/follow/pragga9876?style=social" alt="Twitter followers" />
+  </a>
+</p>
+
+<div align="center">
+  
+**⚡ Fun Fact: Every commit reduces my carbon footprint by 0.0001kg CO2e (probably)**
+
+![Footer GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+</div>
+
+---
+
+**💚 Built with curiosity, caffeine, and carbon-conscious code. Let's make tech sustainable!** [memory:11][web:32]
+

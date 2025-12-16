@@ -24,10 +24,10 @@
 
 | Project | What it does 🎮 | Tech Stack ⚡ | Status 🔥 |
 |---------|----------------|--------------|-----------|
-| **[Equil](https://github.com/pragga9876/equil)** | Tracks your carbon footprint with clean UI, habit insights, Hult Prize ready! 🌍 | React + Firebase + Tailwind + Vercel | **Prototype → Startup vibes** [memory:10][memory:20] |
-| **[Tic-Tac-Toe PWA](https://github.com/pragga9876/tic-tac-toe)** | Neon gradients, 12-file SCSS system, installable game! 🎯 | React + Vite + Sass + Radix UI | **Production deployed** [memory:2][memory:8] |
-| **[mini-js-games-hub](https://github.com/mini-js-games-hub)** | Forked + enhanced JS games hub 📱 | Vanilla JS + CSS + GitHub workflows | **Active contributor** [memory:7] |
-| **assist-ai** | AI resume builder w/ OCR smarts 🤖 | Python OCR + Node + React | **Open-source contribs** [memory:1] |
+| **[Equil](https://github.com/pragga9876/equil)** | Tracks your carbon footprint with clean UI, habit insights, Hult Prize ready! 🌍 | React + Firebase + Tailwind + Vercel | **Prototype → Startup vibes** |
+| **[Tic-Tac-Toe PWA](https://github.com/pragga9876/tic-tac-toe)** | Neon gradients, 12-file SCSS system, installable game! 🎯 | React + Vite + Sass + Radix UI | **Production deployed** |
+| **[mini-js-games-hub](https://github.com/mini-js-games-hub)** | Forked + enhanced JS games hub 📱 | Vanilla JS + CSS + GitHub workflows | **Active contributor**  |
+| **assist-ai** | AI resume builder w/ OCR smarts 🤖 | Python OCR + Node + React | **Open-source contribs** |
 
 ## 🛠️ **Tech Stack** (What powers my chaos ➕ creativity)
 
@@ -37,14 +37,6 @@ backend: ["Node.js", "Express", "Firebase/Firestore"],
 tools: ["Vite", "Vercel", "Git/GitHub", "VS Code", "Git Bash"],
 learning: ["DSA", "GenAI/AGI", "PWAs", "Full-stack mastery"]
 }
-
-
-## 🏆 **Hackathons & Adventures**
-
-- **Calcutta Hacks** 🏛️: Built heritage-tech blending Kolkata culture + web apps [memory:16]
-- **Hult Prize Prep** 🌍: Scaling Equil for social impact competitions [memory:10]
-- **TEAMDER** 👥: Tinder-for-hackathon-teams feature [memory:19]
-- **Open Source** 💾: Git workflows, UI enhancements, contribs everywhere!
 
 ## 🎯 **What's cooking right now?**
 
@@ -83,5 +75,5 @@ G[Hackathons] --> H[Calcutta Hacks 2.0]
 
 ---
 
-**💚 Built with curiosity, caffeine, and carbon-conscious code. Let's make tech sustainable!** [memory:11][web:32]
+**💚 Built with curiosity, caffeine, and carbon-conscious code. Let's make tech sustainable!**
 

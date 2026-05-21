@@ -1,4 +1,5 @@
 [![Pragga9876's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragga9876&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+streak maintenance 1
 
 streak maintenance 2
 

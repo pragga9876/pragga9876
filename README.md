@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragga9876&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-bla bla bla 1
 bla bla bla 2
 bla bla bla 3
 bla bla bla 4

@@ -32,9 +32,3 @@ I'm a software developer focused on building useful projects and learning new te
 ## Fun / Extras
 - 🎯 Interests: coding challenges, automation, building small tools
 - 🎧 Favorite music while coding: your favorite playlist or genre
-
----
-
-If you'd like I can:
-- Commit this README directly to your repo as a PR, or
-- Generate a README with project-specific screenshots and badges if you share which repos to highlight.

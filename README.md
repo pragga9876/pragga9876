@@ -2,8 +2,6 @@
 
 I'm a software developer focused on building useful projects and learning new technologies. I enjoy working on full-stack web apps and automation tools.
 
-[![An image of @pragga9876's Holopin badges, which is a link to view their full Holopin profile]
-
 ---
 
 ## About me

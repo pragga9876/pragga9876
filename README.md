@@ -9,7 +9,6 @@ I'm a software developer focused on building useful projects and learning new te
 - 🌱 I’m currently learning: Kubernetes, TypeScript, and modern React
 - 👯 I’m open to collaborating on open-source projects and interesting ideas
 - 💬 Ask me about: web development, deployment, CI/CD
-- 📫 How to reach me: email@example.com · [LinkedIn](https://www.linkedin.com/in/yourprofile) · [Twitter](https://twitter.com/yourhandle)
 
 ## Tech stack
 - Languages: JavaScript / TypeScript, Python

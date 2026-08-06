@@ -15,10 +15,6 @@ I'm a software developer focused on building useful projects and learning new te
 - Frameworks: React, Node.js, Express
 - Tools: Docker, Git, GitHub Actions
 
-## Featured projects
-- [project-name](https://github.com/pragga9876/project-name) — Short one-line description of what it does.
-- [another-repo](https://github.com/pragga9876/another-repo) — Another short description.
-
 ## Contributions & Open Source
 - I contribute to open-source projects and welcome PRs and collaboration.
 - If you'd like to work together, open an issue in one of my repos or get in touch.

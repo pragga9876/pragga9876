@@ -4,12 +4,6 @@ I'm a software developer focused on building useful projects and learning new te
 
 ---
 
-## About me
-- 🔭 I’m currently working on: [project-name](https://github.com/pragga9876/project-name) (replace with your repo)
-- 🌱 I’m currently learning: Kubernetes, TypeScript, and modern React
-- 👯 I’m open to collaborating on open-source projects and interesting ideas
-- 💬 Ask me about: web development, deployment, CI/CD
-
 ## Tech stack
 - Languages: JavaScript / TypeScript, Python
 - Frameworks: React, Node.js, Express

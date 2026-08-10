@@ -15,4 +15,3 @@ I'm a software developer focused on building useful projects and learning new te
 
 ## Fun / Extras
 - 🎯 Interests: coding challenges, automation, building small tools
-- 🎧 Favorite music while coding: your favorite playlist or genre

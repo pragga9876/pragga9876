@@ -2,8 +2,6 @@
 
 I'm a software developer focused on building useful projects and learning new technologies. I enjoy working on full-stack web apps and automation tools.
 
----
-
 ## Tech stack
 - Languages: JavaScript / TypeScript, Python
 - Frameworks: React, Node.js, Express

@@ -29,12 +29,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=pragga9876&show_icons=true&theme=github_dark&hide_border=true"
     height="165"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragga9876&layout=compact&theme=github_dark&hide_border=true"
     height="165"
     alt="Most used languages"
   />
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=pragga9876&theme=github-dark-blue&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>
@@ -53,7 +53,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pragga9876&theme=github-compact&hide_border=true"
     alt="GitHub activity graph"
   />
 </p>
